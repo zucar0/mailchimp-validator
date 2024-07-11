@@ -1,0 +1,2 @@
+# mailchimp-validator
+mailchimp-validate
